@@ -1,3 +1,3 @@
-# bitimulate-frontend
+# coinmarket-frontend
 
 To be implemented..
